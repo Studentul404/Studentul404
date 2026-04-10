@@ -51,6 +51,6 @@ I am 17 years old, and I love figuring out how complex things work — from disc
 * 🖥️ **Problem Solver.** I grasp abstract tasks quickly and enjoy troubleshooting complex systems, whether in academic environments or professional workflows.
 * 💡 **Engineer by blood.** I focus on building tools with real-world impact — from humanitarian web platforms to automated robotics.
 * 🧑🏻‍💻 **Hardware Nerd.** My journey started with tinkering on 2005-era laptops. Now, I focus on modern system architecture and Apple Silicon performance.
-* 🔐 **Security Researcher.** Dedicated to ethical hacking and responsible disclosure. Successfully secured 12k+ user records for a growing startups ([Confliclty](https://www.conflictly.app/) and UnifCAD(https://unifcad.com/)).
+* 🔐 **Security Researcher.** Dedicated to ethical hacking and responsible disclosure. Successfully secured 12k+ user records for a growing startups ([Confliclty](https://www.conflictly.app/) and [UnifCAD](https://unifcad.com/)).
 ---
 📫 **Reach me:** [💬 Telegram](https://t.me/k_intel1163nce_1) | [📞 WhatsApp](https://wa.me/37367275486)
